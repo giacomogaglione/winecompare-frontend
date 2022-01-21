@@ -39,7 +39,7 @@ const Footer = () => {
                 </MuiNextLink>
             </Stack>
             <Typography align="center" color="common.white">
-                © 1994 - {new Date().getFullYear()}, De West Sakura Restaurant
+                © 2022 - {new Date().getFullYear()} WineCompare
             </Typography>
         </Box>
     );
