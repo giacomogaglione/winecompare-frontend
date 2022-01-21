@@ -3,9 +3,6 @@ import Link from 'next/link';
 export default function Wine({ wine }) {
   return (
     <div>
-      <Link href="/">
-        <a> Go Home </a>
-      </Link>
       <h2>{wine.Name}</h2>
     </div>
   );
